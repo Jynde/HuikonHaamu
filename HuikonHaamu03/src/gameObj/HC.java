@@ -84,7 +84,7 @@ public class HC {
 			HELP = "Someone should write some help instructions here."; //TODO
 		}
 		
-		if (lang.equals("fi")) { // TODO
+		if (lang.equals("fi")) { // TODO TESTI MUOKKAUS
 			//GameThing responses:
 			GAMETHING_TAKE = "You can't take that thing and carry it around.";
 			GAMETHING_PUT = "You can't put that there.";
